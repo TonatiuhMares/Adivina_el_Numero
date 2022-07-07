@@ -1,9 +1,9 @@
-# Mares Cerda Juan Tonatiuh   19000810 IMT901
-#  2. Escribe un programa (Algoritmo y Diagrama de Flujo) que te permita 
-#     jugar un juego de mente. El juego consistirá en adivinar una  cadena de números distintos. Al principio, el programa debe 
-#     pedir la longitud de la cadena (de 2 a 5 cifras). Después el programa debe ir pidiendo que intentes adivinar la cadena de 
-#     números. En cada intento, el programa informará de cuántos  números han sido acertados (el programa considerará que se ha 
-#     acertado un número si coincide el valor y la posición).
+
+#  2. Escribe un programa que te permita jugar un juego de mente. El juego consistirá en adivinar una  cadena de números distintos. 
+#     Al principio, el programa debe pedir la longitud de la cadena (de 2 a 5 cifras). Después el programa debe ir pidiendo que intentes
+#     adivinar la cadena de números. En cada intento, el programa informará de cuántos  números han sido acertados
+#     (el programa considerará que se ha acertado un número si coincide el valor y la posición).
+
 import random
 print('******************************************\n')
 print('         Bienvenido al juego \n')
